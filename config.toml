@@ -1,4 +1,4 @@
-baseurl = "https://theuglydonkey.com/"
+baseurl = "http://theuglydonkey.com/"
 languageCode = "en-us"
 title = "The Ugly Donkey"
 # Define how many pages appear per site
@@ -6,6 +6,9 @@ paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
 #disqusShortname = ""
 theme = "hugo-minimalist-theme"
+
+[permalinks]
+    post = "/:year/:month/:slug/"
 
 [params]
     site_author = "Mike Flynn"

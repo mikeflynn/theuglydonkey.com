@@ -2,7 +2,7 @@
 tags = ["Al Franken","president","election"]
 date = "2016-11-12T23:54:39-08:00"
 title = "Al Franken: 2020"
-image = "/img/posts/al-franken.jpg"
+image = "/img/posts/2016/al-franken.jpg"
 #imagehgt = "large"
 +++
 
