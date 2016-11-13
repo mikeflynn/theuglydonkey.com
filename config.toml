@@ -1,0 +1,36 @@
+baseurl = "https://theuglydonkey.com/"
+languageCode = "en-us"
+title = "The Ugly Donkey"
+# Define how many pages appear per site
+paginate = 10
+# Enable comments powered by Disqus by entering your disqus shortname
+#disqusShortname = ""
+theme = "hugo-minimalist-theme"
+
+[params]
+    site_author = "Mike Flynn"
+    site_description = "National politics from a critically thinking, currently unregistered democrat."
+    location = "United States of America"
+    # All paths are relative to the baseurl. Put your files
+    # somewhere in the static folder.
+    avatar = "img/profile-image.png"
+    header_background = "img/header/hillary_facepaint.jpg"
+    header_title = "The Ugly Donkey"
+    header_tagline = "National politics from a critically thinking, currently unregistered democrat."
+    copyright = "The Ugly Donkey.com"
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = ""
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = "thatmikeflynn"
+    facebook  = ""
+    linkedin  = ""
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = ""
+    gplus     = ""
