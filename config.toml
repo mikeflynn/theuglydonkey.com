@@ -23,7 +23,7 @@ theme = "hugo-minimalist-theme"
     copyright = "The Ugly Donkey.com"
 
     # Enable gogle analytics by entering your tracking code
-    google_analytics = ""
+    google_analytics = "UA-87352721-1"
 
 [social]
     # Add your social network accounts to the profile section on the left
