@@ -10,6 +10,12 @@ build:
 clean:
 				@rm -rf public
 
+pull:
+				@git pull --rebase
+				@cd themes/hugo-minimalist-theme && git pull --rebase
+
+refresh: pull install
+
 help:
 				@echo "Makefile usage:";
 				@echo " make \t\t\t Clears and rebuilds the site.";
