@@ -2,6 +2,8 @@
 tags = ["meme", "donald trump", "mike pence", "simpsons"]
 date = "2016-11-13T14:04:12-08:00"
 title = "This Helps Me"
+image = "/img/posts/2016/trump_burns.jpg"
+hideimage = "1"
 +++
 
 Do what you gotta do to get through the next days/months/years until we figure out what kind of president Trump will be. Picturing this is what's helping me.
