@@ -23,7 +23,7 @@ Just don't look him in the eye!
 
 Well he sounds just fantastic and we heard he narrowly beat out [Skeletor](https://www.youtube.com/watch?v=zloWEvRDhgI) and [this generic cartoon villain](/img/posts/2016/cartoon_vilian.png) for the job so obviously he has a lot to offer. Here's some more stuff to know about a guy described as a "legitimately sinister" and who's job it will be to think up stuff the most powerful government in the world should do.
 
-1. According to [this Bloomberg profile](https://www.bloomberg.com/politics/graphics/2015-steve-bannon/) we learn that "Honey badget don't give a s---" is his motto and that he really shouldn't be wearing shorts.
+1. According to [this Bloomberg profile](https://www.bloomberg.com/politics/graphics/2015-steve-bannon/) we learn that "Honey badger don't give a s---" is his motto and that he really shouldn't be wearing shorts.
 
 2. He's just a regular guy who's all about the people...also, he received his MBA from Harvard, he's on at least two executive boards, and is still the CEO of American Vantage Media Corporation.
 
