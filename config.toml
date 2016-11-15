@@ -30,7 +30,7 @@ theme = "hugo-minimalist-theme"
     # by entering your username. The links to your account will be
     # create automatically.
     twitter   = "theuglydonkey"
-    facebook  = ""
+    facebook  = "theuglydonkey"
     linkedin  = ""
     behance   = ""
     dribbble  = ""
