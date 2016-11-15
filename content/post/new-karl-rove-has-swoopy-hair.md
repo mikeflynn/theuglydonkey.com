@@ -33,3 +33,4 @@ Well he sounds just fantastic and we heard he narrowly beat out [Skeletor](https
 
 5. This is totally a guess, but he seems like a guy that doesn't bother to hold in his farts at the office.
 
+His new office is the White House.
