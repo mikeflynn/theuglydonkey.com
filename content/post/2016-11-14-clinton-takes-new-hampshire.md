@@ -3,7 +3,7 @@ tags = ["Electoral College","Election 2016", "Hillary Clinton"]
 date = "2016-11-14T20:08:53-08:00"
 title = "Clinton Wins...New Hampshire!"
 slug = "clinton wins new hampshire"
-
+draft = true
 +++
 
 [The New York Times has reported](http://www.nytimes.com/2016/11/15/us/politics/hillary-clinton-wins-new-hampshire.html?ref=politics) that Hillary Clinton has won New Hampshire and the 4 electoral votes from the state. She still lost by 60 but thanks for bringing back up again.
