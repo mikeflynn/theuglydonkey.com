@@ -3,7 +3,6 @@ tags = ["Stephen Bannon", "Breitbart", "Donald Trump"]
 date = "2016-11-13T22:35:10-08:00"
 title = "The New Karl Rove Has Swoopy Hair"
 image = "/img/posts/2016/bannon_hair.jpg"
-draft = true
 +++
 
 We have a new Karl Rove. The last one looked like [the little evil scientist from the Avengers](/img/posts/2016/karl_rove_avengers.jpg) and the new one looks like a Philip Seymour Hoffman character (think "Mission Impossible" and less "Almost Famous").
