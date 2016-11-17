@@ -29,7 +29,7 @@ Trump has now [ditched his press pool twice](https://www.washingtonpost.com/life
 
 ### 3. His conflicts of interest are unprecedented.
 
-Trump is not the first rich president we have had or will have. Trump is, however, appears to be the first president that cares so little about this nation that [he isn't putting a huge wall between the office of the President](https://www.washingtonpost.com/opinions/trumps-blind-trust-is-neither-blind-nor-trustworthy/2016/11/15/6eeca1fc-aaa5-11e6-a31b-4b6397e625d0_story.html?utm_term=.246c54962924), and it's ultimate insider information, and any business holdings. Everyone does it to avoid even the appearance of impropriety...except Trump, and he stands to make a massive profit because of it. Of course, that's just the one conflict of interest we know about. There's still the matter of his unreleased tax records that could show any number of connections that are unflattering for the leader of the free world.
+Trump is not the first rich president we have had or will have. Trump is, however, the first president that cares so little about this nation that [he isn't putting a huge wall between the office of the President](https://www.washingtonpost.com/opinions/trumps-blind-trust-is-neither-blind-nor-trustworthy/2016/11/15/6eeca1fc-aaa5-11e6-a31b-4b6397e625d0_story.html?utm_term=.246c54962924), and it's ultimate insider information, and any business holdings. Everyone does it to avoid even the appearance of impropriety...except Trump, and he stands to make a massive profit because of it. Of course, that's just the one conflict of interest we know about. There's still the matter of his unreleased tax records that could show any number of connections that are unflattering for the leader of the free world.
 
 ---
 
