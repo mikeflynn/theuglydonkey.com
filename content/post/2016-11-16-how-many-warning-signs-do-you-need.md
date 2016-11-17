@@ -25,7 +25,7 @@ When actual, non-hyperbolic Nazis look at something the next President of the Un
 
 ### 2. He's keeping the press at a distance.
 
-Trump has now ditched his press pool twice and has yet to have a press conference. Say what you will about "the media," and several major news organizations have some stuff to work out, but the press need access to the President because _you_ need access to the President. The President works for us and the press pool keeps us in the loop of what's going on and what he's doing. If you don't have anything to hide, you'll respect the importance of the press. It's just that simple.
+Trump has now [ditched his press pool twice](https://www.washingtonpost.com/opinions/trumps-blind-trust-is-neither-blind-nor-trustworthy/2016/11/15/6eeca1fc-aaa5-11e6-a31b-4b6397e625d0_story.html?utm_term=.246c54962924) and has yet to have a press conference. Say what you will about "the media," and several major news organizations have some stuff to work out, but the press need access to the President because _you_ need access to the President. The President works for us and the press pool keeps us in the loop of what's going on and what he's doing. If you don't have anything to hide, you'll respect the importance of the press. It's just that simple.
 
 ### 3. His conflicts of interest are unprecedented.
 
