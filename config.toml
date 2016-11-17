@@ -2,7 +2,7 @@ baseurl = "https://theuglydonkey.com/"
 languageCode = "en-us"
 title = "The Ugly Donkey"
 # Define how many pages appear per site
-paginate = 10
+paginate = 5
 # Enable comments powered by Disqus by entering your disqus shortname
 #disqusShortname = ""
 theme = "hugo-minimalist-theme"
