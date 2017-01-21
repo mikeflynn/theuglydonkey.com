@@ -17,7 +17,7 @@ theme = "hugo-minimalist-theme"
     # All paths are relative to the baseurl. Put your files
     # somewhere in the static folder.
     avatar = "img/profile-image.png"
-    header_background = "img/header/mcconnell.jpg"
+    header_background = "img/header/trump_disabled.jpg"
     header_title = "The Ugly Donkey"
     header_tagline = "National politics from a critically thinking, currently unregistered democrat."
     copyright = "The Ugly Donkey.com"
